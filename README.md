@@ -1,47 +1,52 @@
-Job Assignment: Full-stack Developer (AWS Lambda, DynamoDB, Amplify & Cognito)
-Objective
-The objective of this project is to develop a Node.js application utilizing AWS Lambda, DynamoDB, AWS Amplify, and AWS Cognito. This assignment aims to evaluate proficiency in creating a secure, scalable application using these AWS services.
+# Project Title
 
-Task Overview
-AWS Lambda Function:
+A brief description of what this project does.
 
-Create a Node.js Lambda function for handling basic CRUD operations.
-DynamoDB Integration:
+## Table of Contents
 
-Design a DynamoDB table for a specified use case (e.g., user profiles, product inventory).
-Implement CRUD operations in the Lambda function with interactions to the DynamoDB table.
-AWS Amplify Setup:
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
 
-Utilize AWS Amplify to configure and deploy the backend services (Lambda, DynamoDB).
-AWS Cognito Integration:
+- [Demo](#demo)
 
-Implement AWS Cognito for user authentication.
-Ensure that only authenticated users can perform CRUD operations.
-API Gateway Integration (Optional):
 
-Configure AWS API Gateway to create RESTful endpoints for the Lambda function.
-Expected Deliverables
-Source Code:
+## Features
 
-A GitHub repository containing all source code.
-Detailed deployment and operation instructions.
-Documentation:
+- List key features of the project here.
 
-README file explaining:
-Application purpose and functionalities.
-Setup, deployment, and testing procedures.
-Design decisions and assumptions.
-Demonstration:
+## Technologies Used
 
-Video demonstration or live demo showing the application in action, focusing on user authentication and CRUD operations.
-Assessment Criteria
-Code quality, organization, and readability.
-Effective integration and use of AWS Lambda, DynamoDB, AWS Amplify, and AWS Cognito.
-Knowledge of Node.js, especially in handling asynchronous operations.
-Ability to secure CRUD operations through user authentication using AWS Cognito.
-Completeness of the task as per the requirements and quality of documentation.
-(Optional) Integration and configuration of AWS API Gateway for RESTful services.
-Additional Notes
-Emphasize security best practices, particularly in handling user data and authentication processes.
-Demonstrate a clear understanding of managing AWS resources through AWS Amplify.
-Showcase error handling and logging capabilities within the application.
+- React
+- AWS Amplify
+- AWS Cognito
+- AWS Lambda
+- DynamoDB
+- Others...
+
+## Installation
+
+1. Clone the project from GitHub:
+
+```bash
+git clone https://github.com/AhmetMel1/bitely-assignment
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd bitely-assignment
+```
+
+3 . Run the following command to start the project:
+
+```bash
+cd yarn start
+```
+
+## Demo
+
+Provide a link to a demo video or live demo showcasing the project in action. Focus on demonstrating user authentication with AWS Cognito and CRUD operations with DynamoDB.
+
+
+
