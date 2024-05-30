@@ -42,7 +42,7 @@ cd bitely-assignment
 3 . Run the following command to start the project:
 
 ```bash
-cd yarn start
+yarn start
 ```
 
 ## Demo
