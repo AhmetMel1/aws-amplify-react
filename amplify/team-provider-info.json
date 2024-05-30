@@ -1,0 +1,33 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bitely-dev-7f8ff-authRole",
+      "UnauthRoleArn": "arn:aws:iam::339712782809:role/amplify-bitely-dev-7f8ff-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::339712782809:role/amplify-bitely-dev-7f8ff-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bitely-dev-7f8ff-deployment",
+      "UnauthRoleName": "amplify-bitely-dev-7f8ff-unauthRole",
+      "StackName": "amplify-bitely-dev-7f8ff",
+      "StackId": "arn:aws:cloudformation:us-east-1:339712782809:stack/amplify-bitely-dev-7f8ff/c46ff290-1e07-11ef-b68f-122f6a5ad085",
+      "AmplifyAppId": "d286r87ua9m55o",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-bitely-dev-7f8ff-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "bitely6c209ad0": {}
+      },
+      "function": {
+        "userCrudOperations": {
+          "deploymentBucketName": "amplify-bitely-dev-7f8ff-deployment",
+          "s3Key": "amplify-builds/userCrudOperations-5a4574306c6d45496537-build.zip"
+        }
+      },
+      "storage": {
+        "user": {}
+      },
+      "api": {
+        "UserAPI": {}
+      }
+    }
+  }
+}

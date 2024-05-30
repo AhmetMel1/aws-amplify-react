@@ -1,0 +1,10 @@
+{
+  "httpMethod": "DELETE",
+  "path": "/user/956b95b1-b16b-4879-b604-f7012046d98c",
+  "queryStringParameters": {
+    "limit": "10"
+  },
+  "headers": {
+    "Content-Type": "application/json"
+  }
+}
