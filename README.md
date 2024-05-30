@@ -47,7 +47,9 @@ cd yarn start
 
 ## Demo
 
-Provide a link to a demo video or live demo showcasing the project in action. Focus on demonstrating user authentication with AWS Cognito and CRUD operations with DynamoDB.
+https://github.com/AhmetMel1/bitely-assignment/assets/128613537/9d15e28f-8af2-48c9-b806-372adf9a5d44
+
+
 
 
 
