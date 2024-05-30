@@ -47,7 +47,9 @@ cd yarn start
 
 ## Demo
 
-https://github.com/AhmetMel1/bitely-assignment/assets/128613537/9d15e28f-8af2-48c9-b806-372adf9a5d44
+https://github.com/AhmetMel1/bitely-assignment/assets/128613537/53f33e42-008c-48d3-993b-f5c65c57567d
+
+
 
 
 
