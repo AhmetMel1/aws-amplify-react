@@ -1,4 +1,4 @@
-# Bitely Assignment
+# AWS Amplify With React
 
 Developing a Secure and Scalable Application with AWS Lambda, DynamoDB, Amplify, Cognito, and React.
 
@@ -30,13 +30,13 @@ Key Functionalities:
 
 1. **Clone the project from GitHub:**
 ```bash
-git clone https://github.com/AhmetMel1/bitely-assignment
+git clone https://github.com/AhmetMel1/aws-amplify-react
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd bitely-assignment
+cd aws-amplify-react
 ```
 
 3 . Run the following command to start the project:
@@ -45,9 +45,6 @@ cd bitely-assignment
 yarn start
 ```
 
-## Demo
-
-https://github.com/AhmetMel1/bitely-assignment/assets/128613537/53f33e42-008c-48d3-993b-f5c65c57567d
 
 
 
